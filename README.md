@@ -4,7 +4,7 @@
 
 # Work Day Scheduler
 
-### URL : https://simpmind.github.io/WorkDayScheduler/
+### URL : https://simpmind.github.io/Work-Day-Scheduler/
 
 ## Description
 a simple calendar application that allows a user to save events for each hour of the day. It runs in the browser and feature dynamically updated HTML and CSS powered by jQuery.
